@@ -192,16 +192,16 @@ High-risk regions should therefore be investigated further to determine whether 
 
 Based on the analysis, the following actions could be considered:
 
-1. **Prioritize high-risk regions**
+1. **Prioritize high-risk regions:**
    Investigate operational processes in states with the highest late-delivery percentages.
 
-2. **Review estimated delivery dates**
+2. **Review estimated delivery dates:**
    Evaluate whether delivery estimates are overly optimistic in regions where delays occur frequently.
 
-3. **Monitor severe delays separately**
+3. **Monitor severe delays separately:**
    Track orders that are more than five days late as a distinct KPI because of their particularly strong relationship with poor customer reviews.
 
-4. **Investigate regional logistics factors**
+4. **Investigate regional logistics factors:**
    Further analysis could examine distribution-center locations, shipping routes, product characteristics, and carrier performance to identify the underlying causes of regional delays.
 
 
@@ -211,4 +211,4 @@ Based on the analysis, the following actions could be considered:
 
 **Molo Munyansanga**
 
-[GitHub](YOUR_GITHUB_PROFILE_LINK) • [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
+[GitHub](https://github.com/Molo-M) • [LinkedIn](https://www.linkedin.com/in/molomunyansanga/)
