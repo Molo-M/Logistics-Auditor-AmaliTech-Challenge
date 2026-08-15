@@ -8,6 +8,20 @@ The purpose of this project is to investigate whether delivery delays are concen
 
 ---
 
+## Table of Contents
+
+- [A. Executive Summary](#a-executive-summary)
+- [B. Project Links](#b-project-links)
+- [C. Technical Explanation](#c-technical-explanation)
+  - [Data Source](#data-source)
+  - [Data Preparation & Cleaning](#data-preparation--cleaning)
+  - [Candidate's Choice](#candidates-choice)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Author](#author)
+
+---
+
 ## A. Executive Summary
 
 The analysis shows that approximately **97% of orders reached the delivered stage**, meaning that the majority of orders successfully completed the fulfillment process. However, delivery performance varies considerably across Brazilian states, with several states in the North and Northeast showing substantially higher late-delivery percentages than many southern and central states. Customer satisfaction is also strongly associated with delivery performance: **on-time deliveries received an average review score of 4.29/5, compared with 2.57/5 for late deliveries**. The most severe delays, exceeding five days, had an average review score of only **1.79/5**, indicating that significant delivery delays are an important contributor to negative customer experiences.
@@ -135,22 +149,11 @@ The chart shows the proportion of all orders that successfully reached the `deli
 
 The analysis found that approximately **97% of orders reached the delivered stage**, while approximately **3% remained in other fulfillment statuses**.
 
-### Why This Matters
-
-This additional analysis provides useful context before evaluating final-mile delivery performance.
-
-Without first looking at overall order status, it would be easy to focus exclusively on late deliveries and overlook problems occurring earlier in the fulfillment process.
-
-The pie chart allows stakeholders to distinguish between:
-
-* **Problems before successful delivery**, and
-* **Problems occurring during the final-mile delivery process.**
-
 ### Why It Is Not Included in the Dashboard
 
 The pie chart was intentionally **not included in the final dashboard**.
 
-It was primarily designed as an introductory analytical visualization in the Jupyter Notebook to establish the overall fulfillment picture before moving into the main delivery-performance analysis.
+It was primarily designed as an introductory analytical visualization in the report (powerpoint presentation) and Jupyter Notebook to establish the overall fulfillment picture before moving into the main delivery-performance analysis.
 
 The dashboard focuses instead on the more actionable insights surrounding **delivery delays, geographic performance, and customer sentiment**.
 
